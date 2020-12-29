@@ -11,7 +11,7 @@ int main(int argc, char **argv) {
 
 	cin >> x;
 
-	cout <<"Zahl: "<<x<<endl;
+	cout <<"Zahl: "<<x<< "sehr gut"<<endl;
 
 	return 0;
 }
